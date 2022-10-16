@@ -5,12 +5,12 @@ export function Header() {
   return (
     <Container>
       <Title>
-        Crie sua{'\n'}conta
+        Sign Up
       </Title>
 
       <Subtitle>
-        Faça seu cadastro de{'\n'}
-        forma rápida e fácil
+        Sign up you profile{'\n'}
+        eazily and quickly
       </Subtitle>
     </Container>
   )

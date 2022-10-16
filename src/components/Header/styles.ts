@@ -10,11 +10,14 @@ export const Title = styled.Text`
   font-weight: bold;
   color: #47474D;
   margin-top: 60px;
+  text-align: center;
 `;
 
 export const Subtitle = styled.Text`
   font-size: 15px;
   color: #7A7A80;
   line-height: 25px;  
+  text-align: center;
+  margin-top: 10px;
 `;
 
